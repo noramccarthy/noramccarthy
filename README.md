@@ -44,7 +44,4 @@
   <a href="https://www.linkedin.com/in/nora-z-mccarthy/">
     <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"/>
   </a>
-  <a href="https://www.instagram.com/nora_mccarthy/">
-    <img height="50" src="https://cdn1.iconfinder.com/data/icons/social-rounded-2/32/instagram-512.png"/>
-  </a>
 </div>
