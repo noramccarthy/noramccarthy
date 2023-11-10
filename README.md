@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi!+I'm+Nora+McCarthy&fontSize=30&fontAlign=50&height=60&animation=fadeIn&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi!+I'm+Nora+McCarthy&fontColor=0066b2&fontSize=30&fontAlign=50&height=60&animation=fadeIn&section=header"/>
 </div>
 
 <div>
