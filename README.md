@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  I'm a software engineer with skills in full stack development. When I'm not programming, you can find me exploring Boston with my dog, running on the Esplanade, or skiing with some pals! <br><br>
+  I'm a software engineer with skills in full stack development. When I'm not programming, you can find me exploring Boston with my dog, running on the Esplanade, or skiing with some friends! <br><br>
   
   👩🏻‍💻 I’m currently working on... <br> a React Frontend Project with Node.js server side and a MySQL database <br><br>
   🌱 I’m currently learning... <br> common Data Structures and Algorithms. <br><br>
