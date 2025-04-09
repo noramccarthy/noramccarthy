@@ -6,8 +6,8 @@
   I'm a software engineer with skills in full stack development. When I'm not programming, you can find me exploring Boston with my dog, running on the Esplanade, or skiing with some friends! <br><br>
   
   👩🏻‍💻 I’m currently working on... <br> a React and Spring Boot project. <br><br>
-  🌱 I’m currently learning... <br> about microservices. <br><br>
-  💬 Ask me about... <br> my switch into coding, my projects, or my dog and cat! <br><br>
+  🌱 I’m currently learning... <br> algorithms. <br><br>
+  💬 Ask me about... <br> my career switch into coding, my projects, or my dog and cat! <br><br>
   💡 Fun fact... <br> I'm a certified rescue scuba diver 🤿
 </div>
 
