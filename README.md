@@ -3,12 +3,25 @@
 </div>
 
 <div>
-  I'm a software engineer with skills in full stack development. When I'm not programming, you can find me exploring Boston with my dog, running on the Esplanade, or skiing with some friends! <br><br>
+  I'm a new full stack developer, currently learning how to create practical and scalable applications. Outside of coding, you’ll usually find me walking around Boston with my dog, crocheting something cozy, or enjoying a good Pilates session.
   
-  👩🏻‍💻 I’m currently working on... <br> a React and Spring Boot project. <br><br>
-  🌱 I’m currently learning... <br> algorithms. <br><br>
-  💬 Ask me about... <br> my career switch into coding, my projects, or my dog and cat! <br><br>
-  💡 Fun fact... <br> I'm a certified rescue scuba diver 🤿
+ <br><br>
+  
+  👩🏻‍💻 I’m currently working on: A full stack project using React and Spring Boot <br><br>
+  🌱 I’m currently learning: Algorithms and problem-solving techniques. <br><br>
+  💬 Ask me about: My career switch into tech, recent projects, or life with my dog and cat! <br><br>
+  💡 Fun fact: I'm a certified rescue scuba diver 🤿
+</div>
+
+<div>
+  ## 🚀 Solo Project: Ticket Forum
+
+An e-commerce platform for event ticket resale.
+🔗 Check it out live 👉 http://3.148.106.111
+
+🛠 **Tech Stack:** JavaScript | MongoDB | Express | React | Node.js
+
+
 </div>
 
 <h2> 💻 &nbsp; Some Tools I Have Used</h2>
