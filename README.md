@@ -1,16 +1,27 @@
-# 👋 Hi there! I'm Nora McCarthy
+## Hi there!
 
-As a coding bootcamp graduate, I'm a fast learner and adapt quickly to new technologies. Outside of programming, I enjoy exploring Boston with my dog, engaging in crochet projects, and practicing Pilates.
+I'm Nora McCarthy! As a coding bootcamp graduate, I'm a fast learner and adapt quickly to new technologies. Outside of programming, I enjoy exploring Boston with my dog, crocheting, and staying active with Pilates.
 
 ---
 
 👩🏻‍💻 **Currently working on:** A full-stack project using React and Spring Boot  
 
-🌱 **Currently learning:** Python programming with a focus on artificial intelligence and studying for the AWS Certified Solutions Architect – Associate exam
+🌱 **Currently learning:** Python programming with a focus on AI and studying for the AWS Certified Solutions Architect – Associate exam
 
-💬 **Ask me about:** My career switch into tech, recent projects, or life with my dog and cat!  
+💬 **Ask me about:** My career switch into tech, recent projects, or life with my dog and cat  
 
-💡 **Fun fact:** I'm a certified rescue scuba diver 🤿  
+💡 **Fun fact:** I'm a certified rescue scuba diver!
+
+---
+
+ 🚀 **Featured Project:** Ticket Forum
+
+An e-commerce platform for event ticket resale.  
+
+🔗 **Check it out live:** [Ticket Forum Live](http://3.148.106.111)
+
+🛠 **Tech Stack:** JavaScript | MongoDB | Express | React | Node.js
+
 
 ---
 
@@ -39,8 +50,11 @@ As a coding bootcamp graduate, I'm a fast learner and adapt quickly to new techn
 
 ---
 
-## Let's Connect!
-<a href="https://www.linkedin.com/in/nora-z-mccarthy/">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" height="30" width="30"/>
+## Let's Connect!  
+<a href="https://www.linkedin.com/in/nora-z-mccarthy/" style="vertical-align:middle; margin-left: 10px;">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" height="30" width="30" />
+</a>
+<a href="mailto:nzmccarthy16@gmail.com" style="vertical-align:middle; margin-left: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
 </a>
 
