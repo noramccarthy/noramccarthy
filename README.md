@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nora McCarthy
 
-I'm a new full-stack developer, currently learning how to create practical and scalable applications. Outside of coding, you’ll usually find me walking around Boston with my dog, crocheting something cozy, or enjoying a good Pilates session.
+I'm a software engineer with a background in healthcare. As a coding bootcamp graduate, I'm a fast learner and adapt quickly to new technologies. I'm focused on building reliable and efficient applications, currently expanding my skills by learning Python programming with an emphasis on AI, and preparing for the AWS Certified Solutions Architect – Associate examination. Outside of programming, I enjoy exploring Boston with my dog, engaging in crochet projects, and practicing Pilates.
 
 ---
 
