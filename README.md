@@ -51,7 +51,7 @@ An e-commerce platform for event ticket resale.
 ---
 
 ## Let's Connect!  
-<a href="https://www.linkedin.com/in/nora-z-mccarthy/" style="vertical-align:middle; margin-left: 10px;">
+<a href="https://www.linkedin.com/in/noramccarthy8" style="vertical-align:middle; margin-left: 10px;">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" height="30" width="30" />
 </a>
 <a href="mailto:nzmccarthy16@gmail.com" style="vertical-align:middle; margin-left: 15px;">
