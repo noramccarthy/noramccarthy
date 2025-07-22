@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Nora McCarthy
 
-I'm a software engineer with a background in healthcare. As a coding bootcamp graduate, I'm a fast learner and adapt quickly to new technologies. I'm focused on building reliable and efficient applications, currently expanding my skills by learning Python programming with an emphasis on AI, and preparing for the AWS Certified Solutions Architect – Associate examination. Outside of programming, I enjoy exploring Boston with my dog, engaging in crochet projects, and practicing Pilates.
+As a coding bootcamp graduate, I'm a fast learner and adapt quickly to new technologies. Outside of programming, I enjoy exploring Boston with my dog, engaging in crochet projects, and practicing Pilates.
 
 ---
 
 👩🏻‍💻 **Currently working on:** A full-stack project using React and Spring Boot  
 
-🌱 **Currently learning:** Python programming with a focus on artificial intelligence  
+🌱 **Currently learning:** Python programming with a focus on artificial intelligence and studying for the AWS Certified Solutions Architect – Associate exam
 
 💬 **Ask me about:** My career switch into tech, recent projects, or life with my dog and cat!  
 
