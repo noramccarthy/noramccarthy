@@ -4,9 +4,9 @@ I'm a new full-stack developer, currently learning how to create practical and s
 
 ---
 
-👩🏻‍💻 **Currently working on:** A full-stack project using React and Spring Boot  
+👩🏻‍💻 **Currently working on:** A full-stack project using React and Spring Boot
 🌱 **Currently learning:** Python programming with a focus on artificial intelligence
-💬 **Ask me about:** My career switch into tech, recent projects, or life with my dog and cat!  
+💬 **Ask me about:** My career switch into tech, recent projects, or life with my dog and cat!
 💡 **Fun fact:** I'm a certified rescue scuba diver 🤿
 
 ---
