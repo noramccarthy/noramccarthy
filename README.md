@@ -6,7 +6,7 @@ I'm Nora McCarthy! As a coding bootcamp graduate, I'm a fast learner and adapt q
 
 👩🏻‍💻 **Currently working on:** A full-stack project using React and Spring Boot  
 
-🌱 **Currently learning:** Python programming with a focus on AI and studying for the AWS Certified Solutions Architect – Associate exam
+🌱 **Currently learning:** Python programming with a focus on artifical intelligence and studying for the AWS Certified Solutions Architect – Associate exam
 
 💬 **Ask me about:** My career switch into tech, recent projects, or life with my dog and cat  
 
