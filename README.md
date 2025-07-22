@@ -4,17 +4,13 @@ I'm a new full-stack developer, currently learning how to create practical and s
 
 ---
 
-👩🏻‍💻 **Currently working on:**  
-A full-stack project using React and Spring Boot
+👩🏻‍💻 **Currently working on:** A full-stack project using React and Spring Boot  
 
-🌱 **Currently learning:**  
-Python programming with a focus on artificial intelligence
+🌱 **Currently learning:** Python programming with a focus on artificial intelligence  
 
-💬 **Ask me about:**  
-My career switch into tech, recent projects, or life with my dog and cat!
+💬 **Ask me about:** My career switch into tech, recent projects, or life with my dog and cat!  
 
-💡 **Fun fact:**  
-I'm a certified rescue scuba diver 🤿
+💡 **Fun fact:** I'm a certified rescue scuba diver 🤿  
 
 ---
 
@@ -40,14 +36,6 @@ I'm a certified rescue scuba diver 🤿
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
----
-
-## 📈 My GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=noramccarthy&hide=stars&hide_rank=true&hide_title=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noramccarthy&langs_count=3&hide_title=true"/>
-</div>
 
 ---
 
