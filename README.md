@@ -18,8 +18,6 @@ I'm Nora McCarthy! As a coding bootcamp graduate, I'm a fast learner and adapt q
 
 An e-commerce platform for event ticket resale.  
 
-🔗 **Check it out live:** [Ticket Forum Live](http://3.148.106.111)
-
 🛠 **Tech Stack:** JavaScript | MongoDB | Express | React | Node.js
 
 
